@@ -1,8 +1,8 @@
 ---
 layout: default
 permalink: index.html
-title: Personal Homepage of foo boo
-description: "Blogging on ...."
+title: Personal Homepage of Harshpreet Singh
+description: "Blogging on Software Development"
 ---
 
 ## [lanyon-plus](https://github.com/dyndna/lanyon-plus)
