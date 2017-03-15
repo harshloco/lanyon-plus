@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: index.html
-title: Personal Homepage of Harshpreet Singh
+title: Personal Homepage of -
 description: "Blogging on Software Development"
 ---
 
