@@ -110,7 +110,7 @@ links:
 disqus_shortname: harshpreetsingh
 
 # Analytics and webmaster tools stuff goes here
-#google_analytics:   xyz123abc
+google_analytics:   UA-93355006-1
 
 #### For dummy website only - remove if you wish ####
 #github_repo: https://github.com/dyndna/lanyon-plus
