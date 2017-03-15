@@ -14,9 +14,9 @@ description:         Portfolio
 #baseurl: ""
 #$urlimg: https://lanyon-plus.sbamin.com/images/
 ## If you do not have custom domain, comment top three lines, uncomment three lines below and replace dyndna with your github userid and lanyon-plus with your project name. Also, rename CNAME file to CNAME.sample
-url: https://harshloco.github.io/lanyon-plus
+url: https://harshloco.github.io
 baseurl: "/hswahla"
-urlimg: https://harshloco.github.io/lanyon-plus/images/
+urlimg: https://harshloco.github.io
 markdown: kramdown
 paginate: 5
 paginate_path: "/blog/page:num"
