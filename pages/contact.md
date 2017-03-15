@@ -4,7 +4,7 @@ permalink: /contact/
 title: Contact
 show_meta: false
 published: true
-description: "Contact example.com"
+description: "Contact Harshpreet Singh"
 comments: false
 mathjax: false
 noindex: false
@@ -13,7 +13,7 @@ sitemap:
     changefreq: 'monthly'
     lastmod: 2016-02-13
 tags:
-  - "foo boo"
+  - "Contect"
   - "driving directions"
   - address
 ---
@@ -49,5 +49,5 @@ tags:
 </script>
 </div>
 {% else %}
-Twitter stream will show up here if `twitter_widget_id` is present is `_config.yml`
+
 {% endif %}
