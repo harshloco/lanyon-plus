@@ -30,7 +30,12 @@ tags:
 </span>
 </div>
 
-Praesent ac sem quis diam fermentum fermentum. Nullam turpis metus, elementum sit amet venenatis sed, placerat eget erat. Ut convallis ipsum vitae volutpat tristique. Cras a tempor lorem, quis aliquet dui. Nunc vel leo erat. Donec posuere massa sed justo luctus, accumsan porttitor ligula laoreet. Suspendisse sit amet nisi ultrices, venenatis lorem vel, posuere turpis. Fusce eget dictum nisi. Proin eu diam nisi. Quisque ut quam quis sem tincidunt efficitur vitae nec ex. Pellentesque ut dolor eros. Ut faucibus semper ultricies. Vestibulum nec nisl in magna porttitor dictum.
+Experienced in developing Content Management System responsible for handling the Organisation's internal data.
+Proficiency in:
+-Complete Software Development Lifecycle.(SDLC)
+- Agile Software Development
+- Technologies used HTML,CSS, PHP, SQL, JavaScript, AJAX, JQuery
+- Analytics and Reporting using MS Office - Excel, Powerpoint
 
 Praesent ac sem quis diam fermentum fermentum. Nullam turpis metus, elementum sit amet venenatis sed, placerat eget erat. Ut convallis ipsum vitae volutpat tristique. Cras a tempor lorem, quis aliquet dui. Nunc vel leo erat. Donec posuere massa sed justo luctus, accumsan porttitor ligula laoreet. Suspendisse sit amet nisi ultrices, venenatis lorem vel, posuere turpis. Fusce eget dictum nisi. Proin eu diam nisi. Quisque ut quam quis sem tincidunt efficitur vitae nec ex. Pellentesque ut dolor eros. Ut faucibus semper ultricies. Vestibulum nec nisl in magna porttitor dictum.
 
