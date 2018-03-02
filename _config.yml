@@ -64,15 +64,15 @@ owner:
   #twitter:        abcd
  # facebook:       
   github:         harshloco
-  stackexchange:  
+ # stackexchange:  
   linkedin:       https://www.linkedin.com/in/hswahla
-  instagram:      
-  flickr:
-  tumblr:  
+ # instagram:      
+ # flickr:
+ # tumblr:  
  # google_plus:    https://plus.google.com/+foo
   # orcid and google scholar IDs are different than standard username.
-  orcid: xyz123abc
-  gscholar: xyz123abc
+ # orcid: xyz123abc
+ # gscholar: xyz123abc
 
 ## sidebar links:
 # For external links add external: true
